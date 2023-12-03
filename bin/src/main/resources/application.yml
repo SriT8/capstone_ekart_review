@@ -1,0 +1,6 @@
+spring:
+  data:
+    mongo:
+      host: mongodb+srv://team09reviewwrite:Yp0bcb5oF7kp8yqk@clusterteam9.rrq9h9x.mongodb.net
+      port: 27017
+      database: product_db

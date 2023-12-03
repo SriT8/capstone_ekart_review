@@ -1,0 +1,8 @@
+spring:
+  data:
+    mongo:
+      host: mongodb+srv://Prince:H8Ir23td29Uexmf7@clusterteam9.rrq9h9x.mongodb.net/
+      port: 27017
+      database: product_db
+    server:
+      port: 8989

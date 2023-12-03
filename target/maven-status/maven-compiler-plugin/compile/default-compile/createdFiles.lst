@@ -1,0 +1,17 @@
+com\walmart\ecartReviews\repository\ProductRepository.class
+com\walmart\ecartReviews\model\Ratings.class
+com\walmart\ecartReviews\repository\NewCommentRepository.class
+com\walmart\ecartReviews\service\NewCommentService.class
+com\walmart\ecartReviews\service\ReviewService.class
+com\walmart\ecartReviews\controller\NewCommentController.class
+com\walmart\ecartReviews\model\User.class
+com\walmart\ecartReviews\model\ReviewSearch.class
+com\walmart\ecartReviews\controller\ProductController.class
+com\walmart\ecartReviews\model\Comment.class
+snippet\Snippet.class
+com\walmart\ecartReviews\service\ProductService.class
+com\walmart\ecartReviews\model\NewComment.class
+com\walmart\ecartReviews\model\Product.class
+com\walmart\ecartReviews\controller\ReviewController.class
+com\walmart\ecartReviews\EcartReviewsApplication.class
+com\walmart\ecartReviews\repository\ReviewRepository.class
